@@ -1,0 +1,11 @@
+• To executie the code 
+
+RUN - ( inside the root node )
+    1) source venv/bin/activate ( to activate virtual environment )
+    2) python3 python/app.py
+    3) open browser and paste this link - http://127.0.0.1:5000
+        you will see data of plnets extracted using python
+    4) paste this link - http://127.0.0.1:5000/planet?name=Sun
+        you will see just the data of : Sun
+    
+DONE :)
